@@ -1,7 +1,7 @@
 {
     "name": "Core",
     "alias": "core",
-    "description": "The FleetCart Core Module.",
+    "description": "The TeamPro Core Module.",
     "order": 0,
     "providers": [
         "Modules\\Core\\Providers\\CoreServiceProvider",

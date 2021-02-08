@@ -250,7 +250,7 @@ class ModuleScaffold
 JSON;
 
         $replace = <<<JSON
-"description": "The FleetCart {$moduleName} Module.",
+"description": "The TeamPro {$moduleName} Module.",
 JSON;
 
         $moduleJson = str_replace($search, $replace, $moduleJson);
@@ -292,7 +292,7 @@ JSON;
 
         foreach (explode(PHP_EOL, $composerJson) as $lineNumber => $textLine) {
             if ($lineNumber === 2) {
-                $composerJsonText .= "    \"description\": \"The FleetCart {$moduleName} Module.\"," . PHP_EOL;
+                $composerJsonText .= "    \"description\": \"The TeamPro {$moduleName} Module.\"," . PHP_EOL;
 
                 continue;
             } elseif ($lineNumber >= 9 && $lineNumber <= 23) {

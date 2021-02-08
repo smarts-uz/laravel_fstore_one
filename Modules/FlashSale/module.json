@@ -1,7 +1,7 @@
 {
     "name": "FlashSale",
     "alias": "flashsale",
-    "description": "The FleetCart FlashSale Module.",
+    "description": "The TeamPro FlashSale Module.",
     "order": 100,
     "providers": [
         "Modules\\FlashSale\\Providers\\FlashSaleServiceProvider"

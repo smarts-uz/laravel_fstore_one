@@ -1,7 +1,7 @@
 {
     "name": "Report",
     "alias": "report",
-    "description": "The FleetCart Report Module.",
+    "description": "The TeamPro Report Module.",
     "order": 100,
     "providers": [
         "Modules\\Report\\Providers\\ReportServiceProvider"

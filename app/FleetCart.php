@@ -5,7 +5,7 @@ namespace FleetCart;
 class FleetCart
 {
     /**
-     * The FleetCart version.
+     * The TeamPro version.
      *
      * @var string
      */

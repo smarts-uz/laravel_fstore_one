@@ -1,6 +1,6 @@
 {
     "name": "Account",
     "alias": "account",
-    "description": "The FleetCart Account Module.",
+    "description": "The TeamPro Account Module.",
     "order": 100
 }

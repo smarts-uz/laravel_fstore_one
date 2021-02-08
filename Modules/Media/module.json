@@ -1,7 +1,7 @@
 {
     "name": "Media",
     "alias": "media",
-    "description": "The FleetCart Media Module.",
+    "description": "The TeamPro Media Module.",
     "order": 80,
     "providers": [
         "Modules\\Media\\Providers\\MediaServiceProvider"

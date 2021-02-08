@@ -1,7 +1,7 @@
 {
     "name": "Brand",
     "alias": "brand",
-    "description": "The FleetCart Brand Module.",
+    "description": "The TeamPro Brand Module.",
     "order": 100,
     "providers": [
         "Modules\\Brand\\Providers\\BrandServiceProvider"

@@ -1,7 +1,7 @@
 {
     "name": "Tax",
     "alias": "tax",
-    "description": "The FleetCart Tax Module.",
+    "description": "The TeamPro Tax Module.",
     "order": 100,
     "providers": [
         "Modules\\Tax\\Providers\\TaxServiceProvider"

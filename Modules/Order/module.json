@@ -1,7 +1,7 @@
 {
     "name": "Order",
     "alias": "order",
-    "description": "The FleetCart Order Module.",
+    "description": "The TeamPro Order Module.",
     "order": 100,
     "providers": [
         "Modules\\Order\\Providers\\OrderServiceProvider"

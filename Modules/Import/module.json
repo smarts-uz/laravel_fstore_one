@@ -1,7 +1,7 @@
 {
     "name": "Import",
     "alias": "import",
-    "description": "The FleetCart Import Module.",
+    "description": "The TeamPro Import Module.",
     "order": 100,
     "providers": [
         "Modules\\Import\\Providers\\ImportServiceProvider"

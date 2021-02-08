@@ -1,7 +1,7 @@
 {
     "name": "Currency",
     "alias": "currency",
-    "description": "The FleetCart Currency Module.",
+    "description": "The TeamPro Currency Module.",
     "order": 100,
     "providers": [
         "Modules\\Currency\\Providers\\CurrencyServiceProvider",

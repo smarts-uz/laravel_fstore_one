@@ -1,7 +1,7 @@
 $.FleetCart = {};
 
 /* ----------------------------------
-   - FleetCart Options -
+   - TeamPro Options -
    ---------------------------------- */
 $.FleetCart.options = {
     animationSpeed: 300,
@@ -58,7 +58,7 @@ $(function () {
 });
 
 /* ----------------------------------
-   - Initialize the FleetCart Object -
+   - Initialize the TeamPro Object -
    ---------------------------------- */
 function _init() {
 

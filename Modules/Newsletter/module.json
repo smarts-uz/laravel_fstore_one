@@ -1,7 +1,7 @@
 {
     "name": "Newsletter",
     "alias": "newsletter",
-    "description": "The FleetCart Newsletter Module.",
+    "description": "The TeamPro Newsletter Module.",
     "order": 100,
     "providers": [
         "Modules\\Newsletter\\Providers\\NewsletterServiceProvider"

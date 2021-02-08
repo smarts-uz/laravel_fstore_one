@@ -1,7 +1,7 @@
 {
     "name": "Storefront",
     "alias": "storefront",
-    "description": "The FleetCart Storefront Theme.",
+    "description": "The TeamPro Storefront Theme.",
     "version": "2.0.0",
     "providers": [
         "Themes\\Storefront\\Providers\\StorefrontServiceProvider"

@@ -1,7 +1,7 @@
 {
     "name": "Tag",
     "alias": "tag",
-    "description": "The FleetCart Tag Module.",
+    "description": "The TeamPro Tag Module.",
     "order": 100,
     "providers": [
         "Modules\\Tag\\Providers\\TagServiceProvider"
